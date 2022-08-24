@@ -11,13 +11,25 @@
   
 🏫 I’m majoring in Computer Science and Engineering.
 <br>
-🍄 I'm interested in Cloud Engineer, DevOps Engineer
+🔎 I'm interested in Cloud Engineer, DevOps Engineer
 <br><br>
 ### 🌱 I’m currently learning ...
 - IaC (Ansible, Terraform)
 - Docker
 - Kubernetes
 - AWS
+<br>
+<details close>
+<summary>📃Certificate </summary>
+  <ol>
+    - AWS Certified Solutions Architect - Associate (SAA)<br>
+    - 리눅스마스터 2급<br>
+    - 정보처리기사 <br>
+    - SQLD<br>
+    - DAsP
+  </ol>
+</details>
+<br>
 
 ## <div align="center">✨ Tech Stack ✨</div>
 <div align="center">Techs that I've used at least once</div><br />
@@ -45,3 +57,6 @@
 
 </div>
   
+  
+
+
