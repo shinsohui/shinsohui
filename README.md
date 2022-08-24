@@ -20,7 +20,7 @@
 - AWS
 <br>
 <details close>
-<summary>📃Certificate </summary>
+<summary>🏅Certificate </summary>
   <ol>
     - AWS Certified Solutions Architect - Associate (SAA)<br>
     - 리눅스마스터 2급<br>
